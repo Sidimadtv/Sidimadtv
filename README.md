@@ -10,7 +10,7 @@
 
 <a href="https://www.sidimad-home.ml/index/"><img alt="Website-2" src="https://img.shields.io/badge/Website-www.sidimad-home.ml-red?style=flat-square&logo=google-chrome"></a>	
 	
-	
+	<a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ![followers](https://img.shields.io/github/followers/sidimadtv?style=social)
