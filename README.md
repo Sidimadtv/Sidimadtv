@@ -124,7 +124,7 @@
 
 <p align="center">
   <a href="https://www.sidimad.ml/"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/web.png" alt="Website"/></a>
-	<a href="mailto:sidihassan17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/gmail.png" alt="Gmail"/></a>
+	
 	<a href="https://github.com/Sidimadtv"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/github.png" alt="GitHub"/></a>
 
 <a href="https://www.facebook.com/profile.php?id=100016109414654">
