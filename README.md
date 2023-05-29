@@ -67,7 +67,7 @@
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
+ <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
 
 <div align="center">
 
