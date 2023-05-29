@@ -1,18 +1,150 @@
 
-📺-S!D!M@D-TV™        .intro{position:fixed;left:0;top:0;layer-background-color:transparent;background-color:transparent;border:thick double #a00;z-index:10}
+<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-var speed=20,temp=new Array,temp2=new Array,clipbottom=window.innerHeight?window.innerHeight:document.body.offsetHeight;for(cliptop=0,i=1;i<=8;i++)temp\[i\]=document.getElementById("i"+i).style,temp\[i\].width=window.innerWidth?window.innerWidth/8-2+"px":document.body.clientWidth/8+"px",temp\[i\].height=window.innerWidth?window.innerHeight+"px":document.body.offsetHeight+"px",temp\[i\].left=(i-1)\*parseInt(temp\[i\].width)+"px";function openit(){for(clipbottom-=speed,i=1;i<=8;i+=2)temp\[i\].clip="rect(0 auto "+clipbottom+"px 0)";for(cliptop+=speed,i=2;i<=8;i+=2)temp\[i\].clip="rect("+cliptop+"px auto auto auto)";if(clipbottom<=0){for(i=1;i<=8;i++)temp\[i\].display="none";clearInterval(stopit)}}function gogo(){stopit=setInterval("openit()",100)}gogo() html,body { background:#000000; overflow-y:hidden; background-repeat: no-repeat; background-size: cover; padding: 0px; min-height:100%; margin-top: 0px; color:#000000; var \_0x4c19eb = \_0x10d5; (function(\_0x127074, \_0x5feb63) { var \_0xd5ef8b = \_0x10d5, \_0x4151f8 = \_0x127074(); while (!!\[\]) { try { var \_0xa734dd = -parseInt(\_0xd5ef8b(0xcc)) / 0x1 \* (-parseInt(\_0xd5ef8b(0xc4)) / 0x2) + -parseInt(\_0xd5ef8b(0xcf)) / 0x3 + -parseInt(\_0xd5ef8b(0xd2)) / 0x4 \* (-parseInt(\_0xd5ef8b(0xc2)) / 0x5) + parseInt(\_0xd5ef8b(0xca)) / 0x6 \* (parseInt(\_0xd5ef8b(0xce)) / 0x7) + parseInt(\_0xd5ef8b(0xc1)) / 0x8 + parseInt(\_0xd5ef8b(0xd3)) / 0x9 + -parseInt(\_0xd5ef8b(0xc5)) / 0xa \* (parseInt(\_0xd5ef8b(0xd0)) / 0xb); if (\_0xa734dd === \_0x5feb63) break; else \_0x4151f8\['push'\](\_0x4151f8\['shift'\]()); } catch (\_0xffb95c) { \_0x4151f8\['push'\](\_0x4151f8\['shift'\]()); } } }(\_0x120b, 0xb5b78), $(selector)\['on'\](\_0x4c19eb(0xc9), function() { return !\[\]; }), onmouseover = \_0x4c19eb(0xd1)); function \_0x10d5(\_0x41b0fe, \_0x3cb443) { var \_0x120bf4 = \_0x120b(); return \_0x10d5 = function(\_0x10d518, \_0x44ec96) { \_0x10d518 = \_0x10d518 - 0xc0; var \_0x3d5694 = \_0x120bf4\[\_0x10d518\]; return \_0x3d5694; }, \_0x10d5(\_0x41b0fe, \_0x3cb443); } function \_0x120b() { var \_0xd2c2a7 = \['6gdYCsv', 'onmouseout', '68UhVEan', 'getElementsByTagName', '4303187jRHmGO', '3500973gJPevG', '13764069yfIVaY', 'title=\\x27\\x27;', '292aFMTFO', '2197368fkCSdO', 'onmouseover', '8584072FpOvFM', '81695rFBFjT', 'suppress', '37918YyxcRj', '20dQoLPJ', '\_title', 'className', 'title', 'mouseenter'\]; \_0x120b = function() { return \_0xd2c2a7; }; return \_0x120b(); } var links = document\[\_0x4c19eb(0xcd)\]('a'); for (var i = 0x0; i < links\['length'\]; i++) { links\[i\]\[\_0x4c19eb(0xc7)\] == \_0x4c19eb(0xc3) && (links\[i\]\[\_0x4c19eb(0xc6)\] = links\[i\]\['title'\], links\[i\]\[\_0x4c19eb(0xc0)\] = function() { var \_0x190798 = \_0x4c19eb; this\[\_0x190798(0xc8)\] = ''; }, links\[i\]\[\_0x4c19eb(0xcb)\] = function() { var \_0x40b02d = \_0x4c19eb; this\[\_0x40b02d(0xc8)\] = this\[\_0x40b02d(0xc6)\]; }); }  ::-webkit-scrollbar { width: 9.750000024pt; } #myBtn:hover { background: #ddd; } #languages, #source { width: 50%; } ::-webkit-scrollbar { -webkit-app-region: no-drag; } #myBtn, #source, #languages { cursor: pointer; } ::-webkit-scrollbar-thumb:hover { background: #000; } \[class~=content\], #myVideo { position: fixed; } #myVideo { object-fit: cover; } #myVideo { width: 100vw; } #myVideo { height: 100vh; } #myVideo { top: 0; } #myVideo { left: 0; } #myVideo { right: 0; } #myVideo, .content { bottom: 0; } #myVideo { min-width: 100%; } #myVideo { min-height: 100%; } #myBtn { width: 2.083333333in; } #myBtn { font-size: 18px; } ::-webkit-scrollbar-track { background-color: #e60e23; } #myBtn { padding-left: 7.5pt; } #myBtn { padding-bottom: .104166667in; } #myBtn { padding-right: .625pc; } #myBtn { padding-top: .625pc; } #myBtn { border-left-width: medium; } #myBtn { border-bottom-width: medium; } #myBtn { border-right-width: medium; } \[class~=content\] { background: rgba(0, 0, 0, .5); } \[class~=content\] { color: #f1f1f1; } #myBtn { border-top-width: medium; } body { background-color: transparent; } #myBtn { border-left-style: none; } ::-webkit-scrollbar-track { -webkit-app-region: no-drag; } #myBtn { border-bottom-style: none; } #myBtn { border-right-style: none; } #myBtn { border-top-style: none; } #myBtn { border-left-color: currentColor; } #myBtn { border-bottom-color: currentColor; } ::-webkit-scrollbar-thumb { background: #f3ab65; } #myBtn { border-right-color: currentColor; } #myBtn:hover { color: black; } #myBtn { border-top-color: currentColor; } ::-webkit-scrollbar-thumb { -webkit-app-region: no-drag; } .content { width: 100%; } ::-webkit-scrollbar-thumb { border-radius: 1.25pc; } #myBtn { border-image: none; } #myBtn { background: #000; } #myBtn { color: #fff; } \[class~=content\] { padding-left: 20px; } \[class~=content\] { padding-bottom: 15pt; } body { overflow-x: hidden; } .content { padding-right: .208333333in; } \[class~=content\] { padding-top: 1.25pc; }  var \_0x4fff96 = \_0x3eb0; function \_0x1aae() { var \_0x471236 = \['161032iiJAzH', 'myVideo', 'myBtn', 'paused', '634408rMszDs', '945faTRsg', 'innerHTML', 'play', 'Play', '1767446JQNKzA', '223476WrPiQa', 'getElementById', '4404610UbnIsi', '784637OLhFLa', '3065868orPYSd', 'pause'\]; \_0x1aae = function() { return \_0x471236; }; return \_0x1aae(); }(function(\_0x28a7f4, \_0x56c6cc) { var \_0x37c8e4 = \_0x3eb0, \_0x281984 = \_0x28a7f4(); while (!!\[\]) { try { var \_0x563673 = -parseInt(\_0x37c8e4(0x184)) / 0x1 + -parseInt(\_0x37c8e4(0x180)) / 0x2 + -parseInt(\_0x37c8e4(0x181)) / 0x3 + -parseInt(\_0x37c8e4(0x17b)) / 0x4 + -parseInt(\_0x37c8e4(0x183)) / 0x5 + parseInt(\_0x37c8e4(0x185)) / 0x6 + parseInt(\_0x37c8e4(0x17c)) / 0x7 \* (parseInt(\_0x37c8e4(0x187)) / 0x8); if (\_0x563673 === \_0x56c6cc) break; else \_0x281984\['push'\](\_0x281984\['shift'\]()); } catch (\_0x42422a) { \_0x281984\['push'\](\_0x281984\['shift'\]()); } } }(\_0x1aae, 0x6ce41)); function \_0x3eb0(\_0x331912, \_0x459b22) { var \_0x1aaeeb = \_0x1aae(); return \_0x3eb0 = function(\_0x3eb0ef, \_0x44e89b) { \_0x3eb0ef = \_0x3eb0ef - 0x17a; var \_0x3bd944 = \_0x1aaeeb\[\_0x3eb0ef\]; return \_0x3bd944; }, \_0x3eb0(\_0x331912, \_0x459b22); } var video = document\[\_0x4fff96(0x182)\](\_0x4fff96(0x188)), btn = document\[\_0x4fff96(0x182)\](\_0x4fff96(0x189)); function myFunction() { var \_0x1f41e5 = \_0x4fff96; video\[\_0x1f41e5(0x17a)\] ? (video\[\_0x1f41e5(0x17e)\](), btn\[\_0x1f41e5(0x17d)\] = 'Pause') : (video\[\_0x1f41e5(0x186)\](), btn\[\_0x1f41e5(0x17d)\] = \_0x1f41e5(0x17f)); }
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-(function(\_0x1051d9, \_0x18db71) { var \_0x2dd698 = \_0xc371, \_0x3eeb3d = \_0x1051d9(); while (!!\[\]) { try { var \_0x4b3b0c = -parseInt(\_0x2dd698(0x1cc)) / 0x1 + parseInt(\_0x2dd698(0x1cb)) / 0x2 + -parseInt(\_0x2dd698(0x1d1)) / 0x3 + -parseInt(\_0x2dd698(0x1cd)) / 0x4 + -parseInt(\_0x2dd698(0x1cf)) / 0x5 + parseInt(\_0x2dd698(0x1d4)) / 0x6 + -parseInt(\_0x2dd698(0x1d8)) / 0x7 \* (-parseInt(\_0x2dd698(0x1d2)) / 0x8); if (\_0x4b3b0c === \_0x18db71) break; else \_0x3eeb3d\['push'\](\_0x3eeb3d\['shift'\]()); } catch (\_0x2ffdc0) { \_0x3eeb3d\['push'\](\_0x3eeb3d\['shift'\]()); } } }(\_0x3369, 0x7f151)); function showTime() { var \_0x33fb31 = \_0xc371, \_0x30bcae = new Date(), \_0x40418d = \_0x30bcae\[\_0x33fb31(0x1d7)\](), \_0x2bb3fe = \_0x30bcae\[\_0x33fb31(0x1d6)\](), \_0x6d9ec7 = \_0x30bcae\[\_0x33fb31(0x1d5)\](), \_0x4e9556 = 'AM'; \_0x40418d == 0x0 && (\_0x40418d = 0xc); \_0x40418d > 0xc && (\_0x40418d = \_0x40418d - 0xc, \_0x4e9556 = 'PM'); \_0x40418d = \_0x40418d < 0xa ? '0' + \_0x40418d : \_0x40418d, \_0x2bb3fe = \_0x2bb3fe < 0xa ? '0' + \_0x2bb3fe : \_0x2bb3fe, \_0x6d9ec7 = \_0x6d9ec7 < 0xa ? '0' + \_0x6d9ec7 : \_0x6d9ec7; var \_0x1c4674 = \_0x40418d + ':' + \_0x2bb3fe + ':' + \_0x6d9ec7 + '\\x20' + \_0x4e9556; document\[\_0x33fb31(0x1d0)\](\_0x33fb31(0x1ce))\[\_0x33fb31(0x1d3)\] = \_0x1c4674, document\['getElementById'\](\_0x33fb31(0x1ce))\['textContent'\] = \_0x1c4674, setTimeout(showTime, 0x3e8); } function \_0xc371(\_0x21653b, \_0x411424) { var \_0x336995 = \_0x3369(); return \_0xc371 = function(\_0xc3711c, \_0x4bbc7e) { \_0xc3711c = \_0xc3711c - 0x1cb; var \_0x3312f9 = \_0x336995\[\_0xc3711c\]; return \_0x3312f9; }, \_0xc371(\_0x21653b, \_0x411424); } showTime(); function \_0x3369() { var \_0x3f034d = \['getSeconds', 'getMinutes', 'getHours', '8600641fEMUvh', '53548ouienk', '161898vbDHOu', '2005792ufBMUt', 'MyClockDisplay', '1479965TAHoDm', 'getElementById', '659523IBrgVo', '8DNQPtz', 'innerText', '2665632lLcJOa'\]; \_0x3369 = function() { return \_0x3f034d; }; return \_0x3369(); } \[class~=clock\] { position: absolute; } \[class~=clock\] { top: 2%; } \[class~=clock\] { left: 50%; } \[class~=clock\] { transform: translateX(-50%) translateY(-50%); } body {} \[class~=clock\] { color: #fff; } \[class~=clock\] { font-size: .136666667in; } \[class~=clock\] { font-family: Orbitron; } \[class~=clock\] { font-family: "Righteous", cursive; } \[class~=clock\] { letter-spacing: .4375pc; } 
 
-function \_0x4199(){var \_0x3acccc=\['isDeleting','372866SMlqSy','createElement','type','data-type','length','2309652tEiOsR','substring','innerHTML','</span>','2933810rDXZue','prototype','getElementsByClassName','88NyyyKM','3Tklpcp','798408gLETdo','<span\\x20class=\\x22wrap\\x22>','toRotate','random','body','period','typewrite','getAttribute','parse','307497tOADLr','onload','txt','loopNum','6780991JYenih','3423805HxstQo','tick','style','6USujWW'\];\_0x4199=function(){return \_0x3acccc;};return \_0x4199();}var \_0x1a60cc=\_0x4f29;(function(\_0x4b47c5,\_0x1befc5){var \_0x223fee=\_0x4f29,\_0x30a37d=\_0x4b47c5();while(!!\[\]){try{var \_0x11a740=parseInt(\_0x223fee(0x163))/0x1+-parseInt(\_0x223fee(0x14c))/0x2+-parseInt(\_0x223fee(0x159))/0x3\*(parseInt(\_0x223fee(0x151))/0x4)+parseInt(\_0x223fee(0x147))/0x5+-parseInt(\_0x223fee(0x14a))/0x6\*(-parseInt(\_0x223fee(0x146))/0x7)+parseInt(\_0x223fee(0x158))/0x8\*(-parseInt(\_0x223fee(0x15a))/0x9)+parseInt(\_0x223fee(0x155))/0xa;if(\_0x11a740===\_0x1befc5)break;else \_0x30a37d\['push'\](\_0x30a37d\['shift'\]());}catch(\_0x21254b){\_0x30a37d\['push'\](\_0x30a37d\['shift'\]());}}}(\_0x4199,0x7da72));function \_0x4f29(\_0x27b3f0,\_0x388718){var \_0x4199a8=\_0x4199();return \_0x4f29=function(\_0x4f298d,\_0x2b09d7){\_0x4f298d=\_0x4f298d-0x143;var \_0x31f628=\_0x4199a8\[\_0x4f298d\];return \_0x31f628;},\_0x4f29(\_0x27b3f0,\_0x388718);}var TxtType=function(\_0x5749f4,\_0x1f94fc,\_0x5d3206){var \_0x45fb86=\_0x4f29;this\['toRotate'\]=\_0x1f94fc,this\['el'\]=\_0x5749f4,this\[\_0x45fb86(0x145)\]=0x0,this\['period'\]=parseInt(\_0x5d3206,0xa)||0x7d0,this\[\_0x45fb86(0x144)\]='',this\['tick'\](),this\[\_0x45fb86(0x14b)\]=!\[\];};TxtType\[\_0x1a60cc(0x156)\]\['tick'\]=function(){var \_0x5f0591=\_0x1a60cc,\_0x3ee752=this\[\_0x5f0591(0x145)\]%this\[\_0x5f0591(0x15c)\]\[\_0x5f0591(0x150)\],\_0x42160e=this\['toRotate'\]\[\_0x3ee752\];this\[\_0x5f0591(0x14b)\]?this\[\_0x5f0591(0x144)\]=\_0x42160e\[\_0x5f0591(0x152)\](0x0,this\[\_0x5f0591(0x144)\]\['length'\]-0x1):this\['txt'\]=\_0x42160e\[\_0x5f0591(0x152)\](0x0,this\[\_0x5f0591(0x144)\]\[\_0x5f0591(0x150)\]+0x1);this\['el'\]\[\_0x5f0591(0x153)\]=\_0x5f0591(0x15b)+this\[\_0x5f0591(0x144)\]+\_0x5f0591(0x154);var \_0x55cb88=this,\_0x49eaba=0xc8-Math\[\_0x5f0591(0x15d)\]()\*0x64;this\['isDeleting'\]&&(\_0x49eaba/=0x2);if(!this\['isDeleting'\]&&this\[\_0x5f0591(0x144)\]===\_0x42160e)\_0x49eaba=this\[\_0x5f0591(0x15f)\],this\['isDeleting'\]=!!\[\];else this\[\_0x5f0591(0x14b)\]&&this\[\_0x5f0591(0x144)\]===''&&(this\['isDeleting'\]=!\[\],this\['loopNum'\]++,\_0x49eaba=0x1f4);\_0x448fc5:setTimeout(function(){var \_0x41db58=\_0x5f0591;\_0x55cb88\[\_0x41db58(0x148)\]();},\_0x49eaba);},window\[\_0x1a60cc(0x143)\]=function(){var \_0x515956=\_0x1a60cc,\_0x33b63=document\[\_0x515956(0x157)\](\_0x515956(0x160));for(var \_0x3de8fa=0x0;\_0x3de8fa<\_0x33b63\[\_0x515956(0x150)\];\_0x3de8fa++){var \_0x53ffd0=\_0x33b63\[\_0x3de8fa\]\['getAttribute'\](\_0x515956(0x14f)),\_0x29fac4=\_0x33b63\[\_0x3de8fa\]\[\_0x515956(0x161)\]('data-period');\_0x53ffd0&&new TxtType(\_0x33b63\[\_0x3de8fa\],JSON\[\_0x515956(0x162)\](\_0x53ffd0),\_0x29fac4);}var \_0x3e0d7c=document\[\_0x515956(0x14d)\](\_0x515956(0x149));\_0x3e0d7c\[\_0x515956(0x14e)\]='text/css',\_0x3e0d7c\[\_0x515956(0x153)\]='.typewrite\\x20>\\x20.wrap\\x20{\\x20border-right:\\x200.08em\\x20solid\\x20#f90707}',document\[\_0x515956(0x15e)\]\['appendChild'\](\_0x3e0d7c);}; body{background-repeat:no-repeat;}body{background-size:cover;}@keyframes swing{0%{transform:rotate(10deg);}100%{transform:rotate(-10deg);}}@keyframes swinghair{0%{transform:rotate(6deg);}100%{transform:rotate(-6deg);}}var \_0x5cdee0=\_0x4bae;(function(\_0x17945e,\_0x14aa0a){var \_0x195dc2=\_0x4bae,\_0x25dc54=\_0x17945e();while(!!\[\]){try{var \_0x30d757=-parseInt(\_0x195dc2(0xf9))/0x1+parseInt(\_0x195dc2(0xf8))/0x2\*(parseInt(\_0x195dc2(0xf2))/0x3)+-parseInt(\_0x195dc2(0xf0))/0x4+parseInt(\_0x195dc2(0xf4))/0x5\*(parseInt(\_0x195dc2(0xfa))/0x6)+parseInt(\_0x195dc2(0xf7))/0x7+-parseInt(\_0x195dc2(0xf6))/0x8+-parseInt(\_0x195dc2(0xf5))/0x9\*(parseInt(\_0x195dc2(0xfb))/0xa);if(\_0x30d757===\_0x14aa0a)break;else \_0x25dc54\['push'\](\_0x25dc54\['shift'\]());}catch(\_0x5ba992){\_0x25dc54\['push'\](\_0x25dc54\['shift'\]());}}}(\_0xe934,0x48c8b),anime({'targets':\_0x5cdee0(0xf3),'translateY':0xa,'autoplay':!!\[\],'loop':!!\[\],'easing':\_0x5cdee0(0xf1),'direction':'alternate'}),anime({'targets':'#zero','translateX':0xa,'autoplay':!!\[\],'loop':!!\[\],'easing':\_0x5cdee0(0xf1),'direction':'alternate','scale':\[{'value':0x1},{'value':1.4},{'value':0x1,'delay':0x28}\],'rotateY':{'value':'+=180','delay':0x46}}));function \_0x4bae(\_0x48a8a8,\_0x2f2a51){var \_0xe934ee=\_0xe934();return \_0x4bae=function(\_0x4bae19,\_0x53feef){\_0x4bae19=\_0x4bae19-0xf0;var \_0x57568f=\_0xe934ee\[\_0x4bae19\];return \_0x57568f;},\_0x4bae(\_0x48a8a8,\_0x2f2a51);}function \_0xe934(){var \_0x147ee3=\['46434KLeZUx','44270JuCtcH','1173048IKRryA','easeInOutSine','202503pTeDmb','.row\\x20svg','5XzXTbm','45dnTnyu','550008sppYft','3759637Dgmnrv','6TBPtwZ','65062pzxdXS'\];\_0xe934=function(){return \_0x147ee3;};return \_0xe934();}body,\*{color:#fff;}\*{text-decoration:none;}body{text-decoration:#a00 underline;}body{font-size:.270833333in;}body{text-align:center;}body{padding-top:.1rem;} \*:before, \*, \*:after { box-sizing: border-box; } \[class~=heart-loader\] { position: absolute; } \*, \*:before, \*:after { margin-left: 0; } \*:before, \*:after, \* { margin-bottom: 0; } .heart-loader\_\_circle.m--left { -webkit-animation: left-circle-anim 7s 1s infinite; } \[class~=heart-loader\] { display: block; } \[class~=heart-loader\] { left: 50%; } \*:before, \*, \*:after { margin-right: 0; } \[class~=heart-loader\] { top: 40%; } \[class~=heart-loader\] { margin-top: -.520833333in; } \*:before, \*, \*:after { margin-top: 0; } \*:after, \*:before, \* { padding-left: 0; } \*:before, \*:after, \* { padding-bottom: 0; } \*:before, \*, \*:after { padding-right: 0; } \*:after, \*, \*:before { padding-top: 0; } \[class~=heart-loader\] { width: 180px; } \[class~=heart-loader\] { height: 180px; } \[class~=heart-loader\] { overflow: visible; } .heart-loader\_\_circle.m--left { animation: left-circle-anim 7s 1s infinite; } \[class~=heart-loader\_\_group\] { transform-origin: 0 67.5pt; } \[class~=heart-loader\_\_group\] { -webkit-animation: group-anim 7s 1s infinite; } \[class~=heart-loader\_\_group\] { animation: group-anim 7s 1s infinite; } \[class~=heart-loader\_\_circle\], \[class~=heart-loader\_\_square\] { stroke: #b8b8b8; } \[class~=heart-loader\_\_square\] { stroke-dasharray: 240, 240; } \[class~=heart-loader\_\_square\] { stroke-dashoffset: 240; } \[class~=heart-loader\_\_square\] { -webkit-animation: square-anim 7s 1s infinite; } \[class~=heart-loader\_\_square\] { animation: square-anim 7s 1s infinite; } \[class~=heart-loader\_\_circle\] { stroke-dasharray: 188.522, 188.522; } .heart-loader\_\_circle.m--right { -webkit-animation: right-circle-anim 7s 1s infinite; } \[class~=heart-loader\_\_circle\] { stroke-dashoffset: 188.522; } \[class~=heart-loader\_\_circle\] { transform-origin: 45pt .3125in; } .heart-loader\_\_heartPath { stroke: #e21737; } .heart-loader\_\_heartPath { fill: transparent; } .heart-loader\_\_heartPath { stroke-dasharray: 308.522, 308.522; } .heart-loader\_\_heartPath { stroke-dashoffset: 308.522; } .heart-loader\_\_heartPath { -webkit-animation: heart-anim 7s 1s infinite; } .heart-loader\_\_heartPath { animation: heart-anim 7s 1s infinite; } .heart-loader\_\_circle.m--right { animation: right-circle-anim 7s 1s infinite; } @-webkit-keyframes square-anim { 12% { stroke-dashoffset: 0; } 43% { stroke-dashoffset: 0; opacity: 1; } 85% { stroke-dashoffset: 0; opacity: 0; } 100% { stroke-dashoffset: 0; opacity: 0; } } @keyframes square-anim { 12% { stroke-dashoffset: 0; } 43% { stroke-dashoffset: 0; opacity: 1; } 85% { stroke-dashoffset: 0; opacity: 0; } 100% { stroke-dashoffset: 0; opacity: 0; } } @-webkit-keyframes left-circle-anim { 12% { stroke-dashoffset: 188.522; } 31% { stroke-dashoffset: 0; transform: translateY(0); } 41% { stroke-dashoffset: 0; transform: translateY(-30px); } 43% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 1; } 85% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 0; } 100% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 0; } } @keyframes left-circle-anim { 12% { stroke-dashoffset: 188.522; } 31% { stroke-dashoffset: 0; transform: translateY(0); } 41% { stroke-dashoffset: 0; transform: translateY(-30px); } 43% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 1; } 85% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 0; } 100% { stroke-dashoffset: 0; transform: translateY(-30px); opacity: 0; } } @-webkit-keyframes right-circle-anim { 12% { stroke-dashoffset: 188.522; } 31% { stroke-dashoffset: 0; transform: translateX(0); } 41% { stroke-dashoffset: 0; transform: translateX(30px); } 43% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 1; } 85% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 0; } 100% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 0; } } @keyframes right-circle-anim { 12% { stroke-dashoffset: 188.522; } 31% { stroke-dashoffset: 0; transform: translateX(0); } 41% { stroke-dashoffset: 0; transform: translateX(30px); } 43% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 1; } 85% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 0; } 100% { stroke-dashoffset: 0; transform: translateX(30px); opacity: 0; } } @-webkit-keyframes group-anim { 43% { transform: rotate(0); } 54% { transform: rotate(-45deg); } 90% { transform: rotate(-45deg); opacity: 1; } 97% { transform: rotate(-45deg); opacity: 0; } 100% { transform: rotate(-45deg); opacity: 0; } } @keyframes group-anim { 43% { transform: rotate(0); } 54% { transform: rotate(-45deg); } 90% { transform: rotate(-45deg); opacity: 1; } 97% { transform: rotate(-45deg); opacity: 0; } 100% { transform: rotate(-45deg); opacity: 0; } } @-webkit-keyframes heart-anim { 55% { stroke-dashoffset: 308.522; fill: transparent; } 70% { stroke-dashoffset: 0; fill: transparent; } 87% { stroke-dashoffset: 0; fill: #e21737; } 100% { stroke-dashoffset: 0; fill: #e21737; } } @keyframes heart-anim { 55% { stroke-dashoffset: 308.522; fill: transparent; } 70% { stroke-dashoffset: 0; fill: transparent; } 87% { stroke-dashoffset: 0; fill: #e21737; } 100% { stroke-dashoffset: 0; fill: #e21737; } } \[class~=other\] { position: absolute; } \[class~=other\] { left: 0; } \[class~=other\] { bottom: .5rem; } \[class~=other\] { width: 100%; } \[class~=other\] { text-align: right; } \[class~=other\_\_link\] { font-size: 1.3rem; } \[class~=other\_\_link\] { margin-left: 1rem; } \[class~=other\_\_link\] { margin-bottom: 0; } \[class~=other\_\_link\] { margin-right: 1rem; } \[class~=other\_\_link\] { margin-top: 0; }
+<br>
 
-![](https://cdn.jsdelivr.net/gh/Sidimadtv/all/images/stro.png)
 
-.astronaut img, \[class~=star\] { position: absolute; } .astronaut img { width: 90pt; } \[class~=star\] { width: 1.5pt; } \[class~=star\] { height: .125pc; } \[class~=star\] { background: #fff; background-size: 100%; } .astronaut img { top: -4%; } .astronaut img, \[class~=star\] { right: 0; } \[class~=star\] { animation: starTwinkle 3s infinite linear; } .astronaut img { animation: astronautFly 6s infinite linear; } @keyframes astronautFly { 0% { left: -100px; } 25% { top: 50%; transform: rotate(30deg); } 50% { transform: rotate(45deg); top: 55%; } 75% { top: 60%; transform: rotate(30deg); } 100% { left: 110%; transform: rotate(45deg); } } @keyframes starTwinkle { 0% { background: rgba(255, 255, 255, .4); } 25% { background: rgba(255, 255, 255, .8); } 50% { background: rgba(255, 255, 255, 1); } 75% { background: rgba(255, 255, 255, .8); } 100% { background: rgba(255, 255, 255, .4); } }  ![](https://cdn.jsdelivr.net/gh/Sidimadtv/all/islam/img/astro.svg)
 
-™ جميع الحقوق محفوظة
-====================
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-var message="Function Disabled"; function clickIE() {if (document.all) {(message);return false;}} function clickNS(e) {if (document.layers||(document.getElementById&&!document.all)) { if (e.which==2||e.which==3) {(message);return false;}}} if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} document.oncontextmenu=new Function("return false") /\*function check(e) { alert(e.keyCode); }\*/ document.onkeydown = function(e) { if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) {//Alt+c, Alt+v will also be disabled sadly. alert('Oops You Cannot Copy It'); } return false; }; var message=”NoRightClicking is allowed in our website”; function arpianDisableClick() { if (document.all) { alert(message); //Remove this line if you don’t want alert message return false; } } function arpianNoRightClick(e) { if (document.layers||(document.getElementById&&!document.all)) { if (e.which==2||e.which==3) { alert(message); //Remove this line if you don’t want alert message return false;} } } if (document.layers) { document.captureEvents(Event.MOUSEDOWN); document.onmousedown=arpianNoRightClick; } else{ document.onmouseup=arpianNoRightClick; document.oncontextmenu=arpianDisableClick; } document.oncontextmenu=new Function(“return false”) document.addEventListener(‘contextmenu’, event => event.preventDefault()); document.onkeydown = function(e) { var message = “Content is protected\\nYou cannot view the page source.”; if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) { alert(message); return false; } else { return true; } }; $(document).keypress(“u”,function(e) { if(e.ctrlKey) { return false; } else { return true; } }); $(document).keydown(function (event) { var message = “Content is protected\\nYou cannot view the Dev Tools.”; if (event.keyCode == 123) { // Prevent F12 alert(message); return false; } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) { // Prevent Ctrl+Shift+I alert(message); return false; } }); !function() { function detectDevTool(allow) { if(isNaN(+allow)) allow =10; var start = +new Date(); // Validation of built-in Object tamper prevention. debugger; var end = +new Date(); // Validates too. if(isNaN(start) || isNaN(end) || end - start > allow) { } } if(window.attachEvent) { if (document.readyState === "complete" || document.readyState === "interactive") { detectDevTool(); window.attachEvent('onresize', detectDevTool); window.attachEvent('onmousemove', detectDevTool); window.attachEvent('onfocus', detectDevTool); window.attachEvent('onblur', detectDevTool); } else { setTimeout(argument.callee, 0); } } else { window.addEventListener('load', detectDevTool); window.addEventListener('resize', detectDevTool); window.addEventListener('mousemove', detectDevTool); window.addEventListener('focus', detectDevTool); window.addEventListener('blur', detectDevTool); } }();
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
 
