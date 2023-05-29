@@ -89,6 +89,8 @@
 </a>
 </div>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sidimadtv&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## <b>📩-Find Me Here</b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hand.gif" width ="80">
 <br>
