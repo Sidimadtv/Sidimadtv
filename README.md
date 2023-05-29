@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra%2BPetch&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 </p>
 	
-## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **-About Me**
+## <picture><img src = "https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width = 50px></picture> **-About Me**
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
 - Playing With Codes at spare time 
