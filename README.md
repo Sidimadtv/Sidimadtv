@@ -10,9 +10,13 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
+![followers](https://img.shields.io/github/followers/yuebaix?style=social)
+![stars](https://img.shields.io/github/stars/sidimadtv?style=social)
 
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="yuebaix :: Visitor's Count" />
 </p>
-	
+</p>	
 ## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/mee.gif" width = 50px></picture> **-About Me**
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
