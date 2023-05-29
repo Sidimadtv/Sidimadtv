@@ -9,7 +9,6 @@
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
 - Playing With Codes at spare time 
-<br/>
 
 
 - Currently learning Everything
@@ -68,7 +67,7 @@
 
 
 
- <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
 
 <div align="center">
 
