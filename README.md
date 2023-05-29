@@ -110,9 +110,10 @@
 
 <a href="https://www.facebook.com/profile.php?id=100016109414654">
 	<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w">
+		<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/Youtube.png" alt="Youtube"></a>	
 	
 	
-	</p>
 
 <h4 align="center">Visitors 👀</h4>
 	 <p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
