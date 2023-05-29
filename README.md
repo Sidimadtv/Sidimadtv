@@ -9,13 +9,17 @@
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
 <br/>
+- A passionate Self-taught Developer
 - Playing With Codes at spare time
-<br/>
+
 - Currently learning Everything
-<br/>
+
 - Personal website [link](https://www.sidimad.ml/)
-<br/>
-- My websites [Web-1](https://www.sidimad.ml/)--[Web-2](https://www.sidimad.ml/)--[Web-3](https://www.sidimad.ml/)
+
+- My websites :
+- [Web-1](https://www.sidimad.ml/)
+- [Web-2](https://www.sidimad.ml/)
+- [Web-3](https://www.sidimad.ml/)
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
