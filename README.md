@@ -88,23 +88,23 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  S!D!M@D-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.facebook.com/profile.php?id=100016109414654" target="_blank">
+<img src="https://img.shields.io/badge/facebook:  S!D!M@D-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  S!D!M@D-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=youtube&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1" target="_blank">
+<img src="https://img.shields.io/badge/youtube:  S!D!M@D-%2300acee.svg?color=a00&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 
 <li>
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  S!D!M@D-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -120,6 +120,6 @@
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
-<br>
+
 
 
