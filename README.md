@@ -8,7 +8,7 @@
 
 <a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad-home.ml/index-blue?style=flat-square&logo=google-chrome"></a>	
+<a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad-home.ml-blue?style=flat-square&logo=google-chrome"></a>	
 	
 	
 
