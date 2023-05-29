@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e47p5vkdl0teit3othwgl771347s40odeu9bvjtp5qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"></h1>
+<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra%2BPetch&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
@@ -10,7 +10,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e47p5vkdl0teit3othwgl771347s40odeu9bvjtp5qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
 
 
 
