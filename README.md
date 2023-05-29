@@ -10,7 +10,7 @@
 	
 ## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **-About Me**
 
-<picture> <img align="right" src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e47p5vkdl0teit3othwgl771347s40odeu9bvjtp5qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
+<picture> <img align="right" src="https://davidmmasters.com/wp-content/uploads/2018/04/trauma-inspired-programming.gif" width = 250px></picture>
 
 
 
