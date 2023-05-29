@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="80"></h1>
+<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="40"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra%2BPetch&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
@@ -8,8 +8,9 @@
 ## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **-About Me**
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
+- Playing With Codes at spare time 
 <br/>
-- Playing With Codes at spare time
+
 
 - Currently learning Everything
 
