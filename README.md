@@ -7,7 +7,7 @@
 <h1 align="center">
 
 <a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad&home.ml/p/index.html-blue?style=flat-square&logo=firefox"></a>
+<a href="https://www.sidimadtv.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimadtv.ml-blue?style=flat-square&logo=firefox"></a>
 	
 
 	
