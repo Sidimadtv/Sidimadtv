@@ -31,11 +31,10 @@
 - [Web-2](https://www.sidimad.ml/)
 - [Web-3](https://www.sidimad.ml/)
 
-<div align="center">
-<a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
 
-</div>
+<a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.syedammarilyas.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.syedammarilyas.com-blue?style=flat-square&logo=google-chrome"></a>
+
 
 
 
