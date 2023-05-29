@@ -88,7 +88,7 @@
 
 	
 	
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sidimadtv&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidimadtv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sidimadtv"/>
 
 </a>
 </div>
