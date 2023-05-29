@@ -8,7 +8,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e47p5vkdl0teit3othwgl771347s40odeu9bvjtp5qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
 
@@ -69,7 +69,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>☑️-Stats </b>
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="40"><b>☑️-Stats </b>
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 </div>
 
 
-## <b>📩-Find Me Here</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>📩-Find Me Here</b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hand.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -103,7 +103,7 @@
 
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="mailto:sidihassan17@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  S!D!M@D-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -112,7 +112,7 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
 
 
 <div align='center'>
