@@ -117,11 +117,11 @@
 	
 
 <h4 align="center">Visitors 👀</h4>
-	 <p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
+<p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sidimadtv&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-</p>
+
 
 
 
