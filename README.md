@@ -28,12 +28,10 @@
 
 - Currently learning Everything
 
-- Personal website [link](https://www.sidimad.ml/)
+- Personal website [Visit Now](https://www.sidimad.ml/)
 
 - My websites :
-- [Web-1](https://www.sidimad.ml/)
-- [Web-2](https://www.sidimad.ml/)
-- [Web-3](https://www.sidimad.ml/)
+- [Web-1](https://www.sidimad.ml/)- [Web-2](https://www.sidimad.ml/)- [Web-3](https://www.sidimad.ml/)
 
 
 
