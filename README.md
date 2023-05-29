@@ -8,17 +8,17 @@
 
 
 	
-## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **About Me**
+## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **-About Me**
 
 <picture> <img align="right" src="https://media4.giphy.com/media/jF1oqkXJL0Mda/giphy.gif?cid=ecf05e47p5vkdl0teit3othwgl771347s40odeu9bvjtp5qz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
 
 
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- A passionate Self-taught Developer
+- Playing With Codes at spare time
 - Currently learning Everything
 - Personal website [link](https://www.sidimad.ml/)
-- My websites [Web-1](https://www.sidimad.ml/) [Web-2](https://www.sidimad.ml/)
+- My websites [Web-1](https://www.sidimad.ml/)--[Web-2](https://www.sidimad.ml/)--[Web-3](https://www.sidimad.ml/)
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
@@ -69,7 +69,7 @@
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="40"><b>☑️-Stats </b>
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
 
 <div align="center">
 
