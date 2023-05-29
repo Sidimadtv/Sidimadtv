@@ -5,9 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<p align="center">
+<a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad-home.ml/index-blue?style=flat-square&logo=google-chrome"></a>
+
 
 
 ![followers](https://img.shields.io/github/followers/sidimadtv?style=social)
