@@ -31,12 +31,12 @@
 - [Web-2](https://www.sidimad.ml/)
 - [Web-3](https://www.sidimad.ml/)
 
-<div align="center">
+
+
+<p align="center">
 <a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad-home.ml/index-blue?style=flat-square&logo=google-chrome"></a>
-</div>
-
-
+</p>
 
 
 
