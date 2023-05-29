@@ -95,20 +95,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		
       
 
 
@@ -121,11 +108,13 @@
 	<a href="mailto:sidihassan17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Sidimadtv"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/github.png" alt="GitHub"/></a>
 
-<a href="https://www.facebook.com/profile.php?id=100016109414654"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/facebook-new.png" alt="Facebook"/></a>
+<a href="https://www.facebook.com/profile.php?id=100016109414654">
+	<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/facebook-new.png" alt="Facebook"/></a>
 	
-	<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/Youtube.png" alt="Youtube"></a>
+	<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1">
+		<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/Youtube.png" alt="Youtube"></a>
 	<h4 align="center">Visitors 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
+	 <p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
 </p>
 
 
