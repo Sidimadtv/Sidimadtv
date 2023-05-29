@@ -117,26 +117,21 @@
 
 
 
-
-
-
-
-
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.facebook.com/profile.php?id=100016109414654" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  S!D!M@D-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/web.png" alt="Website"/></a>
+	<a href="mailto:sidihassan17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Sidimadtv"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/github.png" alt="GitHub"/></a>
 	
-</ul>
-</div>
+	<a href="https://www.facebook.com/profile.php?id=100016109414654"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/facebook-new.png" alt="Facebook"/></a>
+	
+	<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1"><img src="youtube.png" alt="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/Youtube.png"></a>
+	
+</p>
+
+
+
+
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
