@@ -15,9 +15,13 @@
 
 
 - A passionate Self-taught Developer
+<br>
 - Playing With Codes at spare time
+<br>
 - Currently learning Everything
+<br>
 - Personal website [link](https://www.sidimad.ml/)
+<br>
 - My websites [Web-1](https://www.sidimad.ml/)--[Web-2](https://www.sidimad.ml/)--[Web-3](https://www.sidimad.ml/)
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
 
