@@ -113,9 +113,11 @@
 	
 	<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1">
 		<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/Youtube.png" alt="Youtube"></a>
-	<h4 align="center">Visitors 👀</h4>
+	</p>
+
+<h4 align="center">Visitors 👀</h4>
 	 <p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
-</p></p>
+</p>
 
 
 
