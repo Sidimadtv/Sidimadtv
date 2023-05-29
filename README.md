@@ -116,8 +116,8 @@
 <div align='center'>
 
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <img src="https://komarev.com/ghpvc/?username=Sidimadtv&color=blueviolet" align="center">
+</div>
+
 
 
