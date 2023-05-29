@@ -9,7 +9,6 @@
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
 <br/>
-- A passionate Self-taught Developer
 - Playing With Codes at spare time
 
 - Currently learning Everything
