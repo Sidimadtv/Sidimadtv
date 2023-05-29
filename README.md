@@ -7,9 +7,9 @@
 <h1 align="center">
 
 <a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:syedammarilyas@hotmail.com"><img alt="Website" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.sidimad-home.ml/index/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimadhome.ml-red?style=flat-square&logo=firefox"></a>
 	
-<a href="https://www.sidimad-home.ml/index/"><img alt="Website-2" src="https://img.shields.io/badge/Website-www.sidimad-home.ml-red?style=flat-square&logo=google-chrome"></a>	
+
 	
 	
 
