@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
 <h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
@@ -13,8 +13,7 @@
 ![followers](https://img.shields.io/github/followers/sidimadtv?style=social)
 ![stars](https://img.shields.io/github/stars/sidimadtv?style=social)
 </h1>
-<h4 align="center">Visitors 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
+
 </p>
 	
 ## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/mee.gif" width = 50px></picture> **-About Me**
@@ -107,12 +106,12 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
+		
       </div>
-
+<h4 align="center">Visitors 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{sidimadtv}/count.svg" alt="sidimadtv :: Visitor's Count" />
 </p>
 
 
@@ -135,18 +134,6 @@
 
 
 
-<li>
-<a href="https://www.youtube.com/channel/UCuuyS5myE0B3RiR8Fr0D18w?sub_confirmation=1" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  S!D!M@D-%2300acee.svg?color=a00&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<li>
-<a href="mailto:sidihassan17@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  S!D!M@D-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
