@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="35"></h1>
+<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="80"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra%2BPetch&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
@@ -19,9 +19,9 @@
 - Currently learning Everything
 - Personal website [link](https://www.sidimad.ml/)
 - My websites [Web-1](https://www.sidimad.ml/) [Web-2](https://www.sidimad.ml/)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
 
 
 <p align="center">
@@ -117,7 +117,7 @@
 
 <div align='center'>
 
-<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+##<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 
