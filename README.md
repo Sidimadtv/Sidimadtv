@@ -4,30 +4,21 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Chakra%2BPetch&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 </p>
-
-
-
 	
 ## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width = 50px></picture> **-About Me**
-
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
-
-
-
 - A passionate Self-taught Developer
-<br>
+<br/>
 - Playing With Codes at spare time
-<br>
+<br/>
 - Currently learning Everything
-<br>
+<br/>
 - Personal website [link](https://www.sidimad.ml/)
-<br>
+<br/>
 - My websites [Web-1](https://www.sidimad.ml/)--[Web-2](https://www.sidimad.ml/)--[Web-3](https://www.sidimad.ml/)
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
-
-
 <p align="center">
 
 - **Languages**:
