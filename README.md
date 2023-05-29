@@ -77,8 +77,8 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
- <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>My-Stats </b>
+
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>My-Stats </b>
 
 
 <div align="center">
