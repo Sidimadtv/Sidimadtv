@@ -20,7 +20,7 @@
 
 </p>
 	
-## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/mee.gif" width = 50px></picture> **-About Me**
+## <picture><img src = "https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 50px></picture> **-About Me**
 <picture> <img align="right" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/cod.gif" width = 300px></picture>
 - A passionate Self-taught Developer
 - Playing With Codes at spare time 
