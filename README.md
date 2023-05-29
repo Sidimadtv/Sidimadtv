@@ -30,7 +30,7 @@
 - [Web-1](https://www.sidimad.ml/)
 - [Web-2](https://www.sidimad.ml/)
 - [Web-3](https://www.sidimad.ml/)
-<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br><br>
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br>
 
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
 <p align="center">
@@ -78,7 +78,7 @@
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>Stats </b>
+## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>My-Stats </b>
 
 
 <div align="center">
@@ -99,13 +99,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidimadtv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450">
 </a>
 </div>
-
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
 
 
 ## <b>📩-Find Me Here</b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hand.gif" width ="80">
 <br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">📩-Get In Touch : </h3>
 
 
       
@@ -116,7 +116,7 @@
 
 
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/web.png" alt="Website"/></a>
+  <a href="https://www.sidimad.ml/"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/web.png" alt="Website"/></a>
 	<a href="mailto:sidihassan17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Sidimadtv"><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/github.png" alt="GitHub"/></a>
 
