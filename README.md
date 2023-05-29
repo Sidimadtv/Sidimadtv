@@ -30,7 +30,7 @@
 - [Web-1](https://www.sidimad.ml/)
 - [Web-2](https://www.sidimad.ml/)
 - [Web-3](https://www.sidimad.ml/)
-<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif"><br>
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
 
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sk.gif" width ="30"><b> Skills</b>
 <p align="center">
@@ -77,7 +77,7 @@
 
 
 
-
+<img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
 ## <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="35"><b>My-Stats </b>
 
 
