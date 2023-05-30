@@ -1,3 +1,5 @@
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 <h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png" width="40"></h1>
 
