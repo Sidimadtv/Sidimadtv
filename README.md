@@ -5,15 +5,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
 
-https://github.com/Sidimadtv/Sidimadtv/assets/43736678/96eddb9f-9c93-479c-9df2-02490aa7692e
-https://raw.githubusercontent.com/Sidimadtv/mp3/main/Mos%20Def%20%26%20Talib%20Kweli%20%20%20What's%20Beef.mp4
+
+
+https://github.com/Sidimadtv/Sidimadtv/assets/43736678/a59faadf-78b3-4dbf-ac18-1e25105ceabb
+
+
 
 <table width="100%" align="center">
 <tr>
 
 
 <td align="center">
-<a href="https://raw.githubusercontent.com/Sidimadtv/mp3/main/Mos%20Def%20%26%20Talib%20Kweli%20%20%20What's%20Beef.mp4?raw=true">
+
 <strong>Listen to cool music</strong>
 <br />
 <br />
