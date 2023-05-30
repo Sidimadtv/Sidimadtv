@@ -112,7 +112,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hr.gif">
 
 
-## <b>📩-Find Me Here</b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/hand.gif" width ="80">
+## <b>📩-Find Me Here</b><img src="images/han.gif" width ="80">
 
 <h3 align="center" > <img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/sta.gif" width="30" height="30" style="margin-right: 10px;">📩-Get In Touch : </h3>
 
