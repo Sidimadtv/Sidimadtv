@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 
-https://www.youtube.com/embed/QyTW0arAP2U
 https://github.com/Sidimadtv/Sidimadtv/assets/43736678/a59faadf-78b3-4dbf-ac18-1e25105ceabb
 
 
