@@ -19,12 +19,11 @@ https://github.com/Sidimadtv/Sidimadtv/assets/43736678/dbc7e76b-6d9b-4147-8730-6
 <td align="center">
 
 
-<br />
-<br />
+
 
 
 <p>
-<img height="100" alt="Music" src="images/globe.gif"> 
+<img height="100" alt="Music" src="https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi/assets/images/logo.png"> 
 </a>
 </p>
 
