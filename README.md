@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
-https://raw.githubusercontent.com/Sidimadtv/mp3/main/H-Name%20-%20Ched%20Fenni.mp3
+
 
 https://github.com/Sidimadtv/Sidimadtv/assets/43736678/96eddb9f-9c93-479c-9df2-02490aa7692e
 
@@ -13,7 +13,7 @@ https://github.com/Sidimadtv/Sidimadtv/assets/43736678/96eddb9f-9c93-479c-9df2-0
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://raw.githubusercontent.com/Sidimadtv/mp3/main/H-Name%20-%20Ched%20Fenni.mp3">
 <strong>Listen to cool music</strong>
 <br />
 <br />
