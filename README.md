@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/mee.gif" width="40"></h1>
+<h1 align="center"><b>Hi , I'm S!D!M@D </b><img src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/me.gif" width="40"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
