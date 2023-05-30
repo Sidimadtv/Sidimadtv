@@ -3,7 +3,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
+<p>
 
+<img alt="Globe" height="80" src="https://cdn.jsdelivr.net/gh/Sidimadtv/Img/globe.gif">
+</a>
+</p>
 <h1 align="center">
 
 <a href="https://www.sidimad.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sidimad.ml-blue?style=flat-square&logo=google-chrome"></a>
