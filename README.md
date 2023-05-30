@@ -5,7 +5,39 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
 
-<img alt="Globe" height="80" src="images/music.gif">
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.sidimad.ml/">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <h1 align="center">
 
