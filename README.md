@@ -3,14 +3,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
+https://raw.githubusercontent.com/Sidimadtv/mp3/main/H-Name%20-%20Ched%20Fenni.mp3
 
-
-<p><audio id="loop-limited" controls="controls" autoplay style="width: 6em;height:20px;"><source src="http://www.chakdhoom.com/wp-content/uploads/2017/01/chak-1-AudioTrimmer.com_.mp3" type="audio/ogg" /><source src="http://www.chakdhoom.com/wp-content/uploads/2017/01/chak-1-AudioTrimmer.com_.mp3" type="audio/mpeg" /></audio><br />
-<script>
-var loopLimit = 5;
-var loopCounter = 0;
-document.getElementById('loop-limited').addEventListener('ended', function(){if (loopCounter < loopLimit){this.currentTime = 0;this.play();loopCounter++;}
-}, false);</script></p>
 https://github.com/Sidimadtv/Sidimadtv/assets/43736678/96eddb9f-9c93-479c-9df2-02490aa7692e
 
 
