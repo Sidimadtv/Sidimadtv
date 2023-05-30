@@ -5,6 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&center=true&pause=1000&width=435&lines=Welcome+To+S!D!M%40D-TV+Official+Repos" alt="Typing SVG" /></a>
 
 
+
+https://github.com/Sidimadtv/Sidimadtv/assets/43736678/96eddb9f-9c93-479c-9df2-02490aa7692e
+
+
 <table width="100%" align="center">
 <tr>
 
